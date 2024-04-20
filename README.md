@@ -38,8 +38,7 @@ Software Engineer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/suleng18/taskdev-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=suleng18&repo=taskdev-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/suleng18/EchoVibes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=suleng18&repo=EchoVibes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/suleng18/taskdev-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=suleng18&repo=taskdev-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/suleng18/EchoVibes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=suleng18&repo=EchoVibes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/suleng18/js-post-ui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=suleng18&repo=js-post-ui&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/suleng18/social-sl" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=suleng18&repo=social-sl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
